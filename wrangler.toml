@@ -11,4 +11,4 @@ migrations_dir = "./drizzle"
 
 [[r2_buckets]]
 binding = 'APP_BUCKET'
-bucket_name = 'fullstack-astro-cloudflare-bucket'
+bucket_name = 'astro'
